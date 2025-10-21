@@ -1,6 +1,6 @@
 {
   "name": "test-ci",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Simple Node.js app to exercise the CI workflows.",
   "main": "src/index.js",
   "engines": {
