@@ -2,7 +2,6 @@ name: Validate Docker builds
 
 on:
   push:
-    branches: ["main"]
   pull_request:
     branches: ["main"]
 
